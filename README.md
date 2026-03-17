@@ -39,47 +39,27 @@ I care about writing clean, scalable code and crafting interfaces that are fast,
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
+<div align="center">
+
 **Languages**
 
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="48" height="48"/></a>
-</p>
+<a href="#"><img src="https://skillicons.dev/icons?i=js,ts,cpp,python,java,mysql&theme=dark&perline=6" alt="Languages"/></a>
 
 **Frontend**
 
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="48" height="48"/></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" height="28"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48"/></a>
-</p>
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css&theme=dark&perline=6" alt="Frontend"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" height="48"/>
 
 **Backend & Databases**
 
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="48" height="48"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48"/></a>
-</p>
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark&perline=5" alt="Backend"/></a>
 
 **Tools**
 
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48"/></a>
-</p>
+<a href="#"><img src="https://skillicons.dev/icons?i=git,docker,postman,vscode&theme=dark&perline=4" alt="Tools"/></a>
+
+</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
