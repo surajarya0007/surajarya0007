@@ -98,20 +98,9 @@ I care about writing clean, scalable code and crafting interfaces that are fast,
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=surajarya0007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajarya0007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=surajarya0007&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-<br/>
-
-<!-- Animated Activity Graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surajarya0007&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=surajarya0007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_title=true&rank_icon=github" />
+  <img height="150" src="https://streak-stats.demolab.com?user=surajarya0007&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajarya0007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_title=true" />
 </div>
 
 <!-- Animated Divider -->
@@ -130,7 +119,6 @@ I care about writing clean, scalable code and crafting interfaces that are fast,
 
 <!-- Snake Contribution Animation -->
 <div align="center">
-  <h3>🐍 Watch my contributions get eaten!</h3>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surajarya0007/surajarya0007/output/github-snake-dark.svg" />
