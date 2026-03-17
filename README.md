@@ -88,40 +88,40 @@ I care about writing clean, scalable code and crafting interfaces that are fast,
 
 <table width="100%">
   <tr>
-    <td align="center" width="80">
-      <img src="./assets/xelron.jpeg" width="36" height="36" style="border-radius:8px" alt="Xelron"/>
+    <td align="center" width="8%">
+      <img src="./assets/xelron.jpeg" width="50" height="50" alt="Xelron"/>
     </td>
-    <td><b>Xelron</b></td>
-    <td>Software Development Engineer</td>
-    <td align="center"><code>3+ mos</code></td>
-    <td align="right"><code>Jan 2026 – Present</code> 🟢</td>
+    <td width="27%"><b>Xelron</b></td>
+    <td width="30%">Software Development Engineer</td>
+    <td align="center" width="10%"><code>2+ mos</code></td>
+    <td align="right" width="25%"><code>Feb 2026 – Present</code> 🟢</td>
   </tr>
   <tr>
-    <td align="center" width="80">
-      <img src="./assets/goquant.jpeg" width="36" height="36" style="border-radius:8px" alt="GoQuant"/>
+    <td align="center" width="8%">
+      <img src="./assets/goquant.jpeg" width="50" height="50" alt="GoQuant"/>
     </td>
-    <td><b>GoQuant</b></td>
-    <td>Software Engineer</td>
-    <td align="center"><code>8 mos</code></td>
-    <td align="right"><code>May 2025 – Jan 2026</code></td>
+    <td width="27%"><b>GoQuant</b></td>
+    <td width="30%">Software Engineer</td>
+    <td align="center" width="10%"><code>8 mos</code></td>
+    <td align="right" width="25%"><code>May 2025 – Jan 2026</code></td>
   </tr>
   <tr>
-    <td align="center" width="80">
-      <img src="./assets/tcs.jpeg" width="36" height="36" style="border-radius:8px" alt="TCS"/>
+    <td align="center" width="8%">
+      <img src="./assets/tcs.jpeg" width="50" height="50" alt="TCS"/>
     </td>
-    <td><b>Tata Consultancy Services</b></td>
-    <td>Technical Intern</td>
-    <td align="center"><code>6 mos</code></td>
-    <td align="right"><code>Feb 2024 – Jul 2024</code></td>
+    <td width="27%"><b>Tata Consultancy Services</b></td>
+    <td width="30%">Technical Intern</td>
+    <td align="center" width="10%"><code>6 mos</code></td>
+    <td align="right" width="25%"><code>Feb 2024 – Jul 2024</code></td>
   </tr>
   <tr>
-    <td align="center" width="80">
-      <img src="./assets/cadence.jpeg" width="36" height="36" style="border-radius:8px" alt="Cadence"/>
+    <td align="center" width="8%">
+      <img src="./assets/cadence.jpeg" width="50" height="50" alt="Cadence"/>
     </td>
-    <td><b>Cadence Design Systems</b></td>
-    <td>Trainee</td>
-    <td align="center"><code>2 mos</code></td>
-    <td align="right"><code>Jun 2023 – Jul 2023</code></td>
+    <td width="27%"><b>Cadence Design Systems</b></td>
+    <td width="30%">Trainee</td>
+    <td align="center" width="10%"><code>2 mos</code></td>
+    <td align="right" width="25%"><code>Jun 2023 – Jul 2023</code></td>
   </tr>
 </table>
 
