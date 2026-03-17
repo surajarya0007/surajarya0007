@@ -25,14 +25,15 @@ jobs:
 
       - name: Push snake files
         run: |
+          chmod 777 dist/*
+          cp dist/github-snake.svg /tmp/github-snake.svg
+          cp dist/github-snake-dark.svg /tmp/github-snake-dark.svg
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -B output
-          mkdir -p output_files
-          cp dist/* output_files/
-          git rm -rf . || true
-          cp output_files/* .
-          rm -rf output_files dist
-          git add -A
-          git commit -m "Update snake animation" || echo "No changes"
+          git checkout --orphan output
+          git rm -rf .
+          cp /tmp/github-snake.svg .
+          cp /tmp/github-snake-dark.svg .
+          git add github-snake.svg github-snake-dark.svg
+          git commit -m "Update snake animation"
           git push origin output --force
