@@ -86,11 +86,51 @@ I care about writing clean, scalable code and crafting interfaces that are fast,
 
 ### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Experience
 
-| Company | Role | Period |
-|---------|------|--------|
-| **GoQuant** | Software Engineer | May 2025 – Jan 2026 |
-| **Tata Consultancy Services** | Technical Intern | Feb 2024 – Jul 2024 |
-| **Cadence Design Systems** | Trainee | Jun 2023 – Jul 2023 |
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/🟢_CURRENT-00C853?style=for-the-badge" alt="Current"/><br/>
+      <sub><b>Jan 2026 – Present</b></sub>
+    </td>
+    <td>
+      <b>Xelron</b> — <i>Software Development Engineer</i><br/>
+      <sub>📍 Building scalable software solutions</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/8_MONTHS-58A6FF?style=for-the-badge" alt="Duration"/><br/>
+      <sub><b>May 2025 – Jan 2026</b></sub>
+    </td>
+    <td>
+      <b>GoQuant</b> — <i>Software Engineer</i><br/>
+      <sub>📍 Remote &nbsp;|&nbsp; 🛠️ Next.js, Node.js, Express.js, Docker, Python, C++</sub><br/>
+      <sub>⚡ Built real-time trading dashboards handling 500+ live data points/sec with zero lag</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/6_MONTHS-1a1b27?style=for-the-badge" alt="Duration"/><br/>
+      <sub><b>Feb 2024 – Jul 2024</b></sub>
+    </td>
+    <td>
+      <b>Tata Consultancy Services</b> — <i>Technical Intern</i><br/>
+      <sub>📍 Lucknow &nbsp;|&nbsp; 🛠️ Next.js, Node.js, Tailwind CSS, MongoDB, Framer Motion</sub><br/>
+      <sub>⚡ Architected micro-frontend with 20% faster load time & 15% better retention</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/2_MONTHS-1a1b27?style=for-the-badge" alt="Duration"/><br/>
+      <sub><b>Jun 2023 – Jul 2023</b></sub>
+    </td>
+    <td>
+      <b>Cadence Design Systems</b> — <i>Trainee</i><br/>
+      <sub>📍 Noida &nbsp;|&nbsp; 🛠️ Node.js, Express.js, MySQL, React.js</sub><br/>
+      <sub>⚡ Automated engineering workflows, reducing manual setup time by 40%</sub>
+    </td>
+  </tr>
+</table>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
