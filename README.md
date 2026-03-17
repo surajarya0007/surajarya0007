@@ -43,21 +43,45 @@ I care about writing clean, scalable code and crafting interfaces that are fast,
 
 **Languages**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=js,ts,cpp,python,java,mysql&theme=dark&perline=6" alt="Languages"/></a>
+<p>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="56" height="56"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="56" height="56"/>
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="56" height="56"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="56" height="56"/>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="56" height="56"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="56" height="56"/>
+</p>
 
 **Frontend**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css&theme=dark&perline=6" alt="Frontend"/></a>
-&nbsp;
-<img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" height="48"/>
+<p>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="Three.js" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" width="48" height="48"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" height="28"/>
+</p>
 
 **Backend & Databases**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark&perline=5" alt="Backend"/></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" width="48" height="48"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" width="48" height="48"/>
+</p>
 
 **Tools**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=git,docker,postman,vscode&theme=dark&perline=4" alt="Tools"/></a>
+<p>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="56" height="56"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="48" height="48"/>
+</p>
 
 </div>
 
