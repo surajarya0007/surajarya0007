@@ -89,34 +89,38 @@ I care about writing clean, scalable code and crafting interfaces that are fast,
 <table width="100%">
   <tr>
     <td align="center" width="80">
-      <img src="./assets/xelron.png" width="36" height="36" style="border-radius:8px" alt="Xelron"/>
+      <img src="./assets/xelron.jpeg" width="36" height="36" style="border-radius:8px" alt="Xelron"/>
     </td>
     <td><b>Xelron</b></td>
     <td>Software Development Engineer</td>
+    <td align="center"><code>3+ mos</code></td>
     <td align="right"><code>Jan 2026 – Present</code> 🟢</td>
   </tr>
   <tr>
     <td align="center" width="80">
-      <img src="./assets/goquant.png" width="36" height="36" style="border-radius:8px" alt="GoQuant"/>
+      <img src="./assets/goquant.jpeg" width="36" height="36" style="border-radius:8px" alt="GoQuant"/>
     </td>
     <td><b>GoQuant</b></td>
     <td>Software Engineer</td>
+    <td align="center"><code>8 mos</code></td>
     <td align="right"><code>May 2025 – Jan 2026</code></td>
   </tr>
   <tr>
     <td align="center" width="80">
-      <img src="./assets/tcs.png" width="36" height="36" style="border-radius:8px" alt="TCS"/>
+      <img src="./assets/tcs.jpeg" width="36" height="36" style="border-radius:8px" alt="TCS"/>
     </td>
     <td><b>Tata Consultancy Services</b></td>
     <td>Technical Intern</td>
+    <td align="center"><code>6 mos</code></td>
     <td align="right"><code>Feb 2024 – Jul 2024</code></td>
   </tr>
   <tr>
     <td align="center" width="80">
-      <img src="./assets/cadence.png" width="36" height="36" style="border-radius:8px" alt="Cadence"/>
+      <img src="./assets/cadence.jpeg" width="36" height="36" style="border-radius:8px" alt="Cadence"/>
     </td>
     <td><b>Cadence Design Systems</b></td>
     <td>Trainee</td>
+    <td align="center"><code>2 mos</code></td>
     <td align="right"><code>Jun 2023 – Jul 2023</code></td>
   </tr>
 </table>
