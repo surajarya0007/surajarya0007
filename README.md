@@ -89,7 +89,7 @@ I care about writing clean, scalable code and crafting interfaces that are fast,
 <table width="100%">
   <tr>
     <td align="center" width="80">
-      <img src="https://www.xelron.in/favicon.ico" width="40" alt="Xelron"/>
+      <img src="https://www.google.com/s2/favicons?domain=xelron.in&sz=64" width="36" alt="Xelron"/>
     </td>
     <td><b>Xelron</b></td>
     <td>Software Development Engineer</td>
@@ -97,7 +97,7 @@ I care about writing clean, scalable code and crafting interfaces that are fast,
   </tr>
   <tr>
     <td align="center" width="80">
-      <img src="https://img.shields.io/badge/GQ-0D1117?style=flat-square&logoColor=white" height="30" alt="GoQuant"/>
+      <img src="https://www.google.com/s2/favicons?domain=goquant.io&sz=64" width="36" alt="GoQuant"/>
     </td>
     <td><b>GoQuant</b></td>
     <td>Software Engineer</td>
@@ -105,7 +105,7 @@ I care about writing clean, scalable code and crafting interfaces that are fast,
   </tr>
   <tr>
     <td align="center" width="80">
-      <img src="https://logo.clearbit.com/tcs.com" width="40" alt="TCS"/>
+      <img src="https://www.google.com/s2/favicons?domain=tcs.com&sz=64" width="36" alt="TCS"/>
     </td>
     <td><b>Tata Consultancy Services</b></td>
     <td>Technical Intern</td>
@@ -113,7 +113,7 @@ I care about writing clean, scalable code and crafting interfaces that are fast,
   </tr>
   <tr>
     <td align="center" width="80">
-      <img src="https://logo.clearbit.com/cadence.com" width="40" alt="Cadence"/>
+      <img src="https://www.google.com/s2/favicons?domain=cadence.com&sz=64" width="36" alt="Cadence"/>
     </td>
     <td><b>Cadence Design Systems</b></td>
     <td>Trainee</td>
