@@ -89,7 +89,7 @@ I care about writing clean, scalable code and crafting interfaces that are fast,
 <table width="100%">
   <tr>
     <td align="center" width="80">
-      <img src="https://img.shields.io/badge/X-7C3AED?style=for-the-badge&logoColor=white" height="32" alt="Xelron"/>
+      <img src="./assets/xelron.png" width="36" height="36" style="border-radius:8px" alt="Xelron"/>
     </td>
     <td><b>Xelron</b></td>
     <td>Software Development Engineer</td>
@@ -97,7 +97,7 @@ I care about writing clean, scalable code and crafting interfaces that are fast,
   </tr>
   <tr>
     <td align="center" width="80">
-      <img src="https://img.shields.io/badge/GQ-0055FF?style=for-the-badge&logoColor=white" height="32" alt="GoQuant"/>
+      <img src="./assets/goquant.png" width="36" height="36" style="border-radius:8px" alt="GoQuant"/>
     </td>
     <td><b>GoQuant</b></td>
     <td>Software Engineer</td>
@@ -105,7 +105,7 @@ I care about writing clean, scalable code and crafting interfaces that are fast,
   </tr>
   <tr>
     <td align="center" width="80">
-      <img src="https://img.shields.io/badge/TCS-0046BE?style=for-the-badge&logoColor=white" height="32" alt="TCS"/>
+      <img src="./assets/tcs.png" width="36" height="36" style="border-radius:8px" alt="TCS"/>
     </td>
     <td><b>Tata Consultancy Services</b></td>
     <td>Technical Intern</td>
@@ -113,7 +113,7 @@ I care about writing clean, scalable code and crafting interfaces that are fast,
   </tr>
   <tr>
     <td align="center" width="80">
-      <img src="https://img.shields.io/badge/C-ED1C24?style=for-the-badge&logoColor=white" height="32" alt="Cadence"/>
+      <img src="./assets/cadence.png" width="36" height="36" style="border-radius:8px" alt="Cadence"/>
     </td>
     <td><b>Cadence Design Systems</b></td>
     <td>Trainee</td>
